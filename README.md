@@ -10,7 +10,7 @@ This repo includes a standard project structure, unit tests with `pytest`, CI wi
 - MIT License
 - Pre-commit hooks (Black + Ruff + Prettier)
 
-## Quickstart
+## Quickstart /
 ```bash
 # 1) Unzip and move into project
 unzip awesome_project.zip -d awesome_project
