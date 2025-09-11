@@ -9,6 +9,7 @@ This repo includes a standard project structure, unit tests with `pytest`, CI wi
 - GitHub Actions for CI (lint + tests)
 - MIT License
 - Pre-commit hooks (Black + Ruff + Prettier)
+-submit object
 
 ## Quickstart /
 ```bash
