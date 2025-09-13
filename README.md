@@ -14,7 +14,7 @@ This repo includes a standard project structure, unit tests with `pytest`, CI wi
 ```bash
 # 1) Unzip and move into project
 unzip awesome_project.zip -d awesome_project
-cd awesome_project
+cd awesome_project new
 
 # 2) Create virtual env and install deps
 python -m venv .venv
