@@ -2,7 +2,9 @@
 
 /A minimal Python template for quickly starting projects on GitHub.  
 This repo includes a standard project structure, unit tests with `pytest`, CI with GitHub Actions, and pre-commit hooks.
-
+1
+2
+3
 ## Features 
 - Standard `src/` and `tests/` layout
 - Unit testing with `pytest`
