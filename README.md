@@ -1,5 +1,6 @@
  Awesome Project name my repos
 1
+2
 A minimal Python template for quickly starting projects on GitHub.  
 This repo includes a standard project structure, unit tests with `pytest`, CI with GitHub Actions, and pre-commit hooks.
 
