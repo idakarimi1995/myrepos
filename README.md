@@ -10,7 +10,7 @@ add ways and
 - GitHub Actions for CI (lint + tests)
 - MIT License
 - Pre-commit hooks (Black + Ruff + Prettier)
-  ss
+  s
 ## Quickstart first start
 ```bash
 # 1) Unzip and move into project
